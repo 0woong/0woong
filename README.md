@@ -4,10 +4,10 @@
 
 #### Web Developer
 
-<p align="center">📚 Stacks</p>
-<p align="center">
+<div align="center">📚 Stacks</div>
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
-</p>
+</div>
 
 <p align="center">🔨 Tools</p>
 <p align="center">
@@ -18,7 +18,7 @@
 [![0woong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0woong&show_icons=true&theme=dracula&hide_border=true&layout=compact)](https://github.com/0woong)
 
 <p align="center">👻 About Me</p>
-<p align="center">
+<div align="center">
 <!-- [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jooyy1219@gmail.com)](jooyy1219@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jooyy1219@naver.com)](jooyy1219@naver.com)
@@ -26,7 +26,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-DD0B78?style=for-the-badge&logo=Starship&logoColor=white&link=https://eroe.kro.kr)](https://eroe.kro.kr)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://facebook.com/jooyy1219)](https://facebook.com/jooyy1219)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/yexngwxxng)](https://instagram.com/yexngwxxng)
-</p>
+</div>
 
 <!--
 🏅 Algorithm Gold Level. 
