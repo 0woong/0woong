@@ -14,9 +14,9 @@
 
 
 🐱 About Me
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooyy1219@gmail.com)](jooyy1219@gmail.com)
 <!-- [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300) -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooyy1219@gmail.com)](jooyy1219@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jooyy1219@naver.com)](jooyy1219@naver.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@0woong)](https://velog.io/@0woong)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-34A7C1?style=flat-square&logo=Proto.io&logoColor=white&link=https://eroe.kro.kr)](https://eroe.kro.kr)
 
