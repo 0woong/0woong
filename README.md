@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&fontAlign=80&section=header&text=Eroe&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=150&fontAlign=80&section=header&text=Eroe&fontSize=60)
 
 ### Hi Welcome, i'm Eroe 👋
 
@@ -41,4 +41,4 @@ Samsung SW *Pro Level*
 |Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gray&height=200&section=footer)
