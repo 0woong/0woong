@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=PyCharm&logoColor=white"/> 
 
-![0woong's GitHub stats](https://github-readme-stats.vercel.app/api?username=0woong&show_icons=true&theme=radical)
+![0woong's GitHub stats](https://github-readme-stats.vercel.app/api?username=0woong&show_icons=true&theme=dracula)
 [![0woong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0woong&show_icons=true&theme=dracula&hide_border=true&layout=compact)](https://github.com/0woong)
 
 
