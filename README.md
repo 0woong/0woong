@@ -41,4 +41,4 @@ Samsung SW *Pro Level*
 |Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=150&section=footer)
