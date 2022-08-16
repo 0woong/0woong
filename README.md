@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=150&fontAlign=80&section=header)
 
-### Hi Welcome, i'm Eroe 👋
-
-#### Web Developer
+### Hello, i'm Eroe 👋
 
 📚 Stacks
 
