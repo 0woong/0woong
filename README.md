@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eroe&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontAlign=70&section=header&text=Eroe&fontSize=90)
 
 ### Hi Welcome, i'm Eroe 👋
 
