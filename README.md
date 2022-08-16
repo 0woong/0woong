@@ -27,13 +27,11 @@
 [![KakaoTalk Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white&link=http://qr.kakao.com/talk/Oj228OAk1a70FwHtoovXlwpw.W0-)](http://qr.kakao.com/talk/Oj228OAk1a70FwHtoovXlwpw.W0-)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@0woong)](https://velog.io/@0woong)
 
-<!--
-🏅 Algorithm Gold Level. 
+🏅 Algorithm Level. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jooyy1219)](https://solved.ac/jooyy1219/)  
+
+
 
 <!--
 🏆 Awards
