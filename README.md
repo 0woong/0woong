@@ -20,7 +20,8 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-DD0B78?style=for-the-badge&logo=Starship&logoColor=white&link=https://eroe.kro.kr)](https://eroe.kro.kr)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://facebook.com/jooyy1219)](https://facebook.com/jooyy1219)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/yexngwxxng)](https://instagram.com/yexngwxxng)
-[![KakaoTalk Badge](https://img.shields.io/badge/KakaoTalk-#FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white&link=http://qr.kakao.com/talk/Oj228OAk1a70FwHtoovXlwpw.W0-)]([https://instagram.com/yexngwxxng](http://qr.kakao.com/talk/Oj228OAk1a70FwHtoovXlwpw.W0-))
+[![KakaoTalk Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white&link=http://qr.kakao.com/talk/Oj228OAk1a70FwHtoovXlwpw.W0-)](http://qr.kakao.com/talk/Oj228OAk1a70FwHtoovXlwpw.W0-)
+
 
 <!--
 🏅 Algorithm Gold Level. 
