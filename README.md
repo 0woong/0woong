@@ -22,6 +22,8 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jooyy1219@naver.com)](jooyy1219@naver.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@0woong)](https://velog.io/@0woong)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-34A7C1?style=for-the-badge&logo=Proto.io&logoColor=white&link=https://eroe.kro.kr)](https://eroe.kro.kr)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://facebook.com/jooyy1219)](https://facebook.com/jooyy1219)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/yexngwxxng)](https://instagram.com/yexngwxxng)
 
 <!--
 🏅 Algorithm Gold Level. 
