@@ -2,7 +2,7 @@
 
 ### Hello, i'm Eroe 👋
 
-### Front-End Developer
+### Web Developer
 
 📚 Stacks
 
